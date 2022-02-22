@@ -1,4 +1,4 @@
-# Weather-Bot
+# Weather Bot
 Web scraper to compare the temperature of two cities.
 
 REQUIRES
